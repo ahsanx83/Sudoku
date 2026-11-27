@@ -9,7 +9,7 @@ Sudoku game is a Constraint Stratification Problem so the solution of Sudoku Boa
 
 # Sudoku Game Board
 ![alt text](https://github.com/ahsanx83/Sudoku/blob/main/Screenshots/sudoku-1.PNG)
-![alt text](https://github.com/ahsanx83/Sudoku/blob/main/Screenshots/sudoku-3.PNG)
+![alt text](https://github.com/ahsanx83/Sudoku/blob/main/Screenshots/sudoku-2.PNG)
 
 # Sudoku Game Solution
-![alt text](https://github.com/ahsanx83/Sudoku/blob/main/Screenshots/sudoku-2.PNG)
+![alt text](https://github.com/ahsanx83/Sudoku/blob/main/Screenshots/sudoku-3.PNG)
